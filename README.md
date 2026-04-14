@@ -3,5 +3,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=explorrrr)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ... Yayoi Co., Ltd..
-- 🌱 I’m currently learning ... Rust, math, Algorithm, Data Structure, Statistics, Economics, Accounting, Machine Learning.
 - ⚡ Fun fact: ... Poker, Shogi(Japanese chess), igo
